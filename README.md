@@ -4,6 +4,7 @@ App del lado del servidor para ejecutar los metodos GET, POST, PUT Y DELETE, jun
 poder crear usuarios, editar y eliminar.
 
 
+
 # Herramientas
 
 Del lado del Back: 
@@ -103,6 +104,9 @@ services:
     6 para este paso despues de que la configuración sea adecuada damos siguiente y saldra un boton qu dice lanzar lo presionamos y estara listo, buscamos de nuevo el       modulo Elastic Beanstalk y veremos nuetros servicios en aws con su url para ver y trabajar con ellos.
     
     La base de dados usada MongoDB: usu Mongo Atalas Se crea una cuenta, un usuario luego vamos al cluster cramos nuestras colecciones y por ultimo ingresamos en el       panel izquierdo donde buscaremos conexión copiamos el URI luego vamos a nuetro proyecto buscamos la direccion local cambiamos por esta uri que nos dio Mongo atlas     para finalizar colocamos un user y passwor y listo ya la bd estaria en la nube y los servicios en aws.
+    
+    
+    
     
     
     
